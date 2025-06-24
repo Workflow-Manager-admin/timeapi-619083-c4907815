@@ -1,0 +1,7 @@
+[2025-06-24T19:16:15.203Z] info  code-server 4.101.1 bd34cd510f44b25d40b3e30ec9a706a949428c16
+[2025-06-24T19:16:15.220Z] info  Using user-data-dir /home/kavia/.local/share/code-server
+[2025-06-24T19:16:15.249Z] info  Using config file /home/kavia/.config/code-server/config.yaml
+[2025-06-24T19:16:15.249Z] info  HTTP server listening on http://0.0.0.0:8080/
+[2025-06-24T19:16:15.249Z] info    - Authentication is disabled
+[2025-06-24T19:16:15.249Z] info    - Not serving HTTPS
+[2025-06-24T19:16:15.249Z] info  Session server listening on /home/kavia/.local/share/code-server/code-server-ipc.sock

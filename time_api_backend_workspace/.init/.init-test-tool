@@ -1,0 +1,4 @@
+{
+    "command": "pytest",
+    "working_directory": "/tmp/kavia/workspace/code-generation/timeapi-619083-c4907815/time_api_backend_workspace/time_api_backend"
+}

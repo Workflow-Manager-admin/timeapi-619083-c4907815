@@ -1,0 +1,35 @@
+INFO:     Will watch for changes in these directories: ['/tmp/kavia/workspace/code-generation/timeapi-619083-c4907815/time_api_backend_workspace/time_api_backend']
+INFO:     Uvicorn running on http://0.0.0.0:3001 (Press CTRL+C to quit)
+INFO:     Started reloader process [353] using WatchFiles
+INFO:     Started server process [355]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     192.168.65.1:38570 - "HEAD /docs HTTP/1.1" 200 OK
+INFO:     192.168.65.1:49298 - "HEAD /docs HTTP/1.1" 200 OK
+INFO:     192.168.65.1:20525 - "GET /docs HTTP/1.1" 200 OK
+INFO:     192.168.65.1:20525 - "GET /docs HTTP/1.1" 200 OK
+INFO:     192.168.65.1:20525 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     192.168.65.1:20525 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     192.168.65.1:49298 - "HEAD /docs HTTP/1.1" 200 OK
+INFO:     192.168.65.1:38570 - "HEAD /docs HTTP/1.1" 200 OK
+INFO:     192.168.65.1:20525 - "GET /docs HTTP/1.1" 200 OK
+INFO:     192.168.65.1:20525 - "GET /docs HTTP/1.1" 200 OK
+INFO:     192.168.65.1:20525 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     192.168.65.1:20525 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     192.168.65.1:20525 - "GET /firebase-messaging-sw.js?v=1745453736845 HTTP/1.1" 404 Not Found
+WARNING:  WatchFiles detected changes in 'src/api/main.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [355]
+INFO:     Started server process [375]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+WARNING:  WatchFiles detected changes in 'src/api/main.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [375]
+INFO:     Started server process [393]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
